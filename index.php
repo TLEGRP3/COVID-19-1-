@@ -68,7 +68,7 @@ VS
 &nbsp;
 &nbsp;
 &nbsp;
-<a href="TOMORROW.html">TOMORROW</a></p></br></h1>
+<a href="https://covid-19-tomorrow.herokuapp.com/">TOMORROW</a></p></br></h1>
 
 <br>
 <center><img width ="650px" img src="corona.jpg"></center>
