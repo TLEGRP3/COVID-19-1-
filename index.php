@@ -42,7 +42,7 @@
 <br>
 <font color="cyan">
 <h1>
-<a href="TODAY.html">TODAY</a>
+<a href="https://covid-19-2-pt.herokuapp.com/">TODAY</a>
 &nbsp;
 &nbsp;
 &nbsp;
